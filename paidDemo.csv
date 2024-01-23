@@ -1,0 +1,6 @@
+ValueProp,Definition
+Components,ecosystem of integrations with language models
+Off-the-shelf chains,built in collection of components for accomplishing higher-level tasks
+Model I/O,prompt management and generic interface for working with LLMs
+Retrieval,tools for working with Data Augmented Generation
+Agents,"core idea is to use language model to choose a sequence of actions to take, using reasoning to determine outcome"
